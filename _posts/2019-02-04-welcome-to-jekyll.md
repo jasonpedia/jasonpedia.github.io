@@ -37,3 +37,14 @@ function sum (num1,num2){
 var result = sum(a,b);
 ```
 
+```python
+# 위 그림을 확인하면서, 작성한 프로그램과 비교해보기
+
+def cal(num):
+    if num > 0:
+        return num
+    else: 
+        return -num
+cal(-3)
+```
+
